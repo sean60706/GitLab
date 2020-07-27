@@ -10,3 +10,4 @@ function say(name, say) {
 
 let dev = 2;
 let master = 0;
+let lab1 = 1;
