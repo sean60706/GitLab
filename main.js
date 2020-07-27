@@ -9,3 +9,4 @@ function say(name, say) {
 }
 
 let dev = 2;
+let master = 0;
