@@ -7,3 +7,5 @@ function hello(name) {
 function say(name, say) {
   console.log(name, "say", say);
 }
+
+let master = 0;
